@@ -1,0 +1,4 @@
+NAME:Lucas Zimerman *SCORE:2900
+NAME:Lucas Zimerman *SCORE:4000
+NAME:ibm5155 *SCORE:5000
+NAME:teste *SCORE:3700

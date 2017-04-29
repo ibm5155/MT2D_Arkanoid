@@ -1,0 +1,2 @@
+int game();
+void title();
